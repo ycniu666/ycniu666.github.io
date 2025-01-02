@@ -21,11 +21,11 @@ repository               : "ycniu666/ycniu666.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "NYC.jpg"
   name             : "Youcheng Niu"
   # pronouns         : # example: "she/her"  
   bio              : "Ph.D Zhejiang University"
-  location         : "Hangzhou"
+  location         : "Hangzhou, China"
   # employer         : 
   uri              : # URL
   email            : "ycniu@zju.edu.cn" 
