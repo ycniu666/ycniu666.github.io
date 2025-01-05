@@ -5,7 +5,7 @@ permalink: /publications/2024_JPDC_Changzhi
 label: 2024_JPDC_Changzhi
 category: manuscripts
 excerpt: 'Changzhi Yan, Zehan Zhu, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu'
-date: 2025-5-28
+date: 2024-5-28
 venue: 'Journal of Parallel and Distributed Computing'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868'
 authors: 'Changzhi Yan, Zehan Zhu, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu'
