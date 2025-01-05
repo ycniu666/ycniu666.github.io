@@ -2,6 +2,7 @@
 title: "Circuit Implementation of Proximal Projection Neural Networks for Composite Optimization Problems"
 collection: publications
 permalink: /publications/2023_TIE_Jintao
+category: manuscripts
 label: 2023_TIE_Jintao
 excerpt: 'Jintao Wu, Xing He, Youcheng Niu, Tingwen Huang, and Junzhi Yu'
 date: 2023-3-27
