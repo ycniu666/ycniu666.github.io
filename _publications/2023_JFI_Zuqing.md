@@ -1,7 +1,7 @@
 ---
 title: "Distributed generalized Nash equilibrium seeking: A backward-reflected-forward-backward-based algorithm"
 collection: publications
-permalink: /publications/2023_JFI_Zuqing_Zheng
+permalink: /publications/2023_JFI_Zuqing
 label: 2023_JFI_Zuqing_
 excerpt: 'Zuqing Zheng, Huaqing Li, Youcheng Niu, Enbing Su, and Liping Feng'
 date: 2023-12-3
