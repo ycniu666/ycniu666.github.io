@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* M.S. in Information and Communication Engineering, Southwest University, 2020-2022
+* B.S. in Electronic Information and Engineering, Southwest University, 2016-2020
+
+
+Accomplishments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  Outstanding Graduate Student of Chongqing, Chongqing Education Commission， 2022
+*  Outstanding Graduate, Southwest University, 2022
+*  The 13th Chongqing Youth Science and Technology Innovation Mayor's Award, Chongqing Municipal People's Government, 2021
+*  Merit Student of Chongqing, Chongqing Education Commission， 2020
+*  Outstanding Graduate, Southwest University, 2019
+*  First Prize of National Undergraduate Electronics Design Contest， 2019
+*  Second Prize of National College Student Mathematical Modeling Competition in Chongqing Regional Competition，2017
 
 Publications
 ======
@@ -53,11 +38,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
