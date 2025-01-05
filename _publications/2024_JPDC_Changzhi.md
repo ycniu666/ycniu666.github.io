@@ -1,7 +1,7 @@
 ---
 title: "PerfTop: Towards performance prediction of distributed learning over general topology"
 collection: publications
-permalink: /publications/2024_JPDC_Changzhi_Yan
+permalink: /publications/2024_JPDC_Changzhi
 label: 2024_JPDC_Changzhi
 excerpt: 'Changzhi Yan, Zehan Zhu, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu'
 date: 2025-5-28
