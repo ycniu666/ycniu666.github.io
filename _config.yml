@@ -24,7 +24,7 @@ author:
   avatar           : "NYC.jpg"
   name             : "Youcheng Niu"
   # pronouns         : # example: "she/her"  
-  bio              : "Ph.D Zhejiang University"
+  bio              : "Ph.D. Student,  Zhejiang University"
   location         : "Hangzhou, China"
   # employer         : 
   uri              : # URL
@@ -213,7 +213,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
