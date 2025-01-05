@@ -26,3 +26,9 @@ Accomplishments
 *  Outstanding Graduate, Southwest University, 2019
 *  First Prize of National Undergraduate Electronics Design Contest， 2019
 *  Second Prize of National College Student Mathematical Modeling Competition in Chongqing Regional Competition，2017
+
+Publications
+======
+  <ul>{% for post in site.publications reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
