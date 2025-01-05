@@ -2,6 +2,7 @@
 title: "Inducing Desired Equilibrium in Taxi Repositioning Problem with Adaptive Incentive Design"
 collection: publications
 permalink: /publications/c_2023_CDC_Jianhui
+category: conferences
 label: c_2023_CDC_Jianhui
 excerpt: 'Jianhui Li, Youcheng Niu, Shuang Li, Yuzhe Li,  Jinming Xu, and Junfeng Wu'
 date: 2023-12-13
