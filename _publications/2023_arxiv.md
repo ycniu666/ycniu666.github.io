@@ -1,8 +1,8 @@
 ---
 title: "Distributed Stochastic Bilevel Optimization: Improved Complexity and Heterogeneity Analysis"
 collection: publications
-category: manuscripts
 permalink: /publication/2023_arxiv
+category: manuscripts
 label: 2023_arxiv
 excerpt: 'Youcheng Niu, Jinming Xu, Ying Sun, Yan Huang, and Li Chai'
 date: 2023-12-22
