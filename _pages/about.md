@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently  working toward the Ph.D degree in Zhejiang University.  My research interests include distributed optimization and learning, bilevel optimization,  game theory, and their applications.
+Welcome! I am currently  working toward the Ph.D. degree in Zhejiang University.  My research interests include distributed optimization and learning, bilevel optimization,  game theory, and their applications.
 
 Education
 ======
